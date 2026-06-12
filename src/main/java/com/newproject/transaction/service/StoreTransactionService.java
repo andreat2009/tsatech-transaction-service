@@ -35,7 +35,9 @@ public class StoreTransactionService {
 
     @Transactional
     public StoreTransactionResponse create(Long customerId, StoreTransactionRequest request) {
-        requestActor.assertCustomerAccessIfAuthenticated(customerId);
+        // SECURITY (H2): lo store credit e' denaro -> solo ADMIN. Un cliente autenticato sul
+        // proprio customerId poteva accreditarsi importi arbitrari (amount dal body).
+        requestActor.assertAdmin();
         StoreTransaction transaction = new StoreTransaction();
         transaction.setCustomerId(customerId);
         transaction.setOrderId(request.getOrderId());

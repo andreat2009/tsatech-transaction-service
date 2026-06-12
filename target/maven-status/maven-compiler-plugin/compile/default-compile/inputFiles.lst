@@ -1,0 +1,13 @@
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/TransactionServiceApplication.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/config/SecurityConfig.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/controller/StoreTransactionController.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/domain/StoreTransaction.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/dto/StoreTransactionRequest.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/dto/StoreTransactionResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/error/ApiErrorResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/error/GlobalApiExceptionHandler.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/events/DomainEvent.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/events/EventPublisher.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/repository/StoreTransactionRepository.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/security/RequestActor.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/transaction-service/src/main/java/com/newproject/transaction/service/StoreTransactionService.java
